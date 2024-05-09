@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Jihoon. I'm a Korean living abroad, in Beijing, China. I'm a high school freshman who's really interested in computer science, but don't still know what specifically I will major in.
+
+🔭 I’m currently working on: School. ew.
+🌱 I’m currently learning: Stuff that makes my head hurt
+📫 How to reach me: Instagram (wlgns_rubbish)
+😄 Pronouns: He/Him
