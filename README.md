@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Jihoon. I'm a Korean living abroad, in Beijing, China. I'm a high school freshman who's really interested in computer science, but don't still know what specifically I will major in.
+I'm Jihoon. I'm a Korean living abroad, in Beijing, China. I'm a high schooler who's really interested in computer science, but don't still know what specifically I will major in.
 
 🔭 I’m currently working on: School. ew.
 
